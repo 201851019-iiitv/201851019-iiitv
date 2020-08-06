@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with good resources.
 - 💬 Ask me about  on ![Instagram](https://www.instagram.com/cphouse544/?hl=en) or  ![Youtube](https://www.youtube.com/channel/UCNLDPn0lhekyRSgtGOBZQfw?view_as=subscriber) 
 - 📫 How to reach me :![Email](cphouse544@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: Ambesh 
+- ⚡ Fun fact: I am also Ethical Hacker 😜.
