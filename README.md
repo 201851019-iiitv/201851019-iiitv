@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=201851019-iiitv&style=flat-square)
 
-<a href="https://github.com/201851019-iiitv/201851019-iiitv/">Ambesh Kumar</a>
+
 <a href="https://twitter.com/AmbeshK88476896">
   <img align="left" alt="Ambesh Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Hi, I'm Ambesh Kumar  😊😊, an Web Developer 💻 from India 🚀, currently  I am pursuing B.Tech in computer science &engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢</a>
+Hi, I'm Ambesh Kumar  😊😊, an Web Developer 💻 from India 🚀, currently  I am pursuing B.Tech in Computer Science & Engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢 .</a>
 
 
 **Talking about Personal Stuff:**
@@ -29,5 +29,5 @@ Hi, I'm Ambesh Kumar  😊😊, an Web Developer 💻 from India 🚀, currently
 - 🤔 I’m looking for help with good resources.
 - 💬 Ask me about Web Development, Competitive Programming and Technology in general. 
 - 📫 How to reach me: <a href="mailto:ambeshkumar27899@gmail.com">ambeshkumar27899@gmail.com  ✉️ </a> .
-- 😄 Pronouns: Ambesh /Bro /Dude .
+- 😄 Pronouns: Ambesh \Bro \Dude .
 - ⚡ Fun fact: I am also Ethical Hacker 😜.
