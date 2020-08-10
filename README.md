@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Hi, I'm Ambesh Kumar  😊😊, an Web Developer 💻 from India 🚀, currently  I am pursuing B.Tech in Computer Science & Engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢 .</a>
+Hi, I'm Ambesh Kumar  😊😊, an Web Developer 💻 from India 🚀. Currently  I am pursuing B.Tech in Computer Science & Engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢 .</a>
 
 
 **Talking about Personal Stuff:**
