@@ -3,19 +3,19 @@
 ![](https://komarev.com/ghpvc/?username=201851019-iiitv&style=flat-square)
 
 
-Hi, I'm Ambesh Kumar  😊😊, an Web Developer 💻 from India 🚀. Currently  I am pursuing B.Tech in Computer Science & Engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢 .</a>
+Hi, I'm Ambesh Kumar  😊😊, a Web Developer 💻 from India 🚀. Currently  I am pursuing B.Tech in Computer Science & Engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢 .</a>
 
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently pursuing B.tech in Computer Science and Engineering  from Indian Institute of Information Technology Vadodara. 
 - 🌱 I’m currently learning  Blockchain .
 - 👯 I’m looking to collaborate on Web Developement and Blockchain Project.
 - 🤔 I’m looking for help with good resources.
 - 💬 Ask me about Web Development, Competitive Programming and Technology in general. 
 - 📫 How to reach me: <a href="mailto:ambeshkumar27899@gmail.com">ambeshkumar27899@gmail.com  ✉️ </a> .
-- 😄 Pronouns: Ambesh \Bro \Dude .
+- 😄 Pronouns: Ambesh ,Bro,Dude .
 - ⚡ Fun fact: I am also Ethical Hacker 😜.
+- 😊 My Favorite to do CP(Competitive Programming).
 
 
 
@@ -51,4 +51,4 @@ Hi, I'm Ambesh Kumar  😊😊, an Web Developer 💻 from India 🚀. Currently
 </a>
 <br />
 <br />
-:pushpin:  Made with ❤️ by Ambesh Kumar.If  Liked  give  Star⭐⭐:pencil:
+:pushpin:  Made with ❤️ by Ambesh Kumar. <br />  :pencil: If  Liked  give  Star⭐⭐:pencil:
