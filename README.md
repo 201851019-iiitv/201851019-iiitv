@@ -1,15 +1,15 @@
-### Hi there 👋  I'm <a href="https://www.ambeshkumar.ml/">Ambesh Kumar</a>
+### Hi there 👋  
 
 ![](https://komarev.com/ghpvc/?username=201851019-iiitv&style=flat-square)
 
 
-Hi, I'm Ambesh Kumar  😊😊, a Web Developer 💻 from India 🚀. Currently  I am pursuing B.Tech in Computer Science & Engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢 .</a>
+I'm <a href="https://www.ambeshkumar.ml/">Ambesh Kumar</a>  😊😊, a Web and Android Developer 💻 from India 🚀. Currently  I am pursuing B.Tech in Computer Science & Engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢 .</a>
 
 
 **Talking about Personal Stuff:**
 
-- 🌱 I’m currently learning  Blockchain .
-- 👯 I’m looking to collaborate on Web Developement and Blockchain Project.
+- 🌱 I’m currently learning  Android App development  .
+- 👯 I’m looking to collaborate on Web Developement and Android Development Project.
 - 🤔 I’m looking for help with good resources.
 - 💬 Ask me about Web Development, Competitive Programming and Technology in general. 
 - 📫 How to reach me: <a href="mailto:ambeshkumar27899@gmail.com">ambeshkumar27899@gmail.com  ✉️ </a> .
@@ -24,15 +24,26 @@ Hi, I'm Ambesh Kumar  😊😊, a Web Developer 💻 from India 🚀. Currently 
 <br>
 <br>
 **Languages and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="20" src="https://www.pinclipart.com/picdir/big/542-5422938_android-studio-icon-android-studio-new-icon-clipart.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+<code><img height="20" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/sublime-text-icon.png"></code>
 
 ![Ambesh's github stats](https://github-readme-stats.vercel.app/api?username=201851019-iiitv&show_icons=true&theme=dark&line_height=40)
 
