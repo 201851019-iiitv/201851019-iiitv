@@ -17,12 +17,13 @@ I'm <a href="https://201851019-iiitv.github.io/CV/">Ambesh Kumar</a>  😊😊, 
 - ⚡ Fun fact: I am also Ethical Hacker 😜.
 - 😊 My Favorite to do CP(Competitive Programming).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=201851019-iiitv&show_icons=true&theme=outrun&locale=en" alt="201851019-iiitv" /></p>
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ambesh1999" alt="201851019-iiitv" /></p>
+
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=201851019-iiitv&show_icons=true&theme=outrun&locale=en" alt="201851019-iiitv" /> 
+<img align="centre"  width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ambesh1999" alt="201851019-iiitv" />
 <br>
 &nbsp;
-<p style><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=201851019-iiitv&" alt="201851019-iiitv" /></p>
-<p><img align="centre"  src="https://github-readme-stats.vercel.app/api/top-langs?username=201851019-iiitv&show_icons=true&locale=en" alt="201851019-iiitv" /></p>
+<img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=201851019-iiitv&" alt="201851019-iiitv" />
+<img align="centre" width="300"   src="https://github-readme-stats.vercel.app/api/top-langs?username=201851019-iiitv&show_icons=true&locale=en&layout=compact" alt="201851019-iiitv" />
 <br>
 
 
