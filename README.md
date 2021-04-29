@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=201851019-iiitv&style=flat-square)
 
 
-I'm <a href="https://www.ambeshkumar.ml/">Ambesh Kumar</a>  😊😊, a Web and Android Developer 💻 from India 🚀. Currently  I am pursuing B.Tech in Computer Science & Engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢 .</a>
+I'm <a href="https://201851019-iiitv.github.io/CV/">Ambesh Kumar</a>  😊😊, a Web and Android Developer 💻 from India 🚀. Currently  I am pursuing B.Tech in Computer Science & Engineering  from <a href ="http://iiitvadodara.ac.in/">IIIT Vadodara 🏢 .</a>
 
 
 **Talking about Personal Stuff:**
@@ -17,15 +17,11 @@ I'm <a href="https://www.ambeshkumar.ml/">Ambesh Kumar</a>  😊😊, a Web and 
 - ⚡ Fun fact: I am also Ethical Hacker 😜.
 - 😊 My Favorite to do CP(Competitive Programming).
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=201851019-iiitv&show_icons=true&theme=outrun&locale=en" alt="201851019-iiitv" /></p>
 
-![Ambesh's github stats](https://github-readme-stats.vercel.app/api?username=201851019-iiitv&show_icons=true&theme=outrun)
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=201851019-iiitv&show_icons=true&locale=en&layout=compact" alt="201851019-iiitv" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=201851019-iiitv)](https://github.com/anuraghazra/github-readme-stats)
 
-&nbsp;
-<br>
-<br>
-<br>
 **Languages and Tools:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
