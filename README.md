@@ -19,7 +19,7 @@ I'm <a href="https://201851019-iiitv.github.io/CV/">Ambesh Kumar</a>  😊😊, 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=201851019-iiitv&show_icons=true&theme=outrun&locale=en" alt="201851019-iiitv" /></p>
 
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=201851019-iiitv&show_icons=true&locale=en&layout=compact" alt="201851019-iiitv" /></p>
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=201851019-iiitv&show_icons=true&locale=en" alt="201851019-iiitv" /></p>
 
 
 **Languages and Tools:**
