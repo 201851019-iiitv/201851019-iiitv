@@ -18,7 +18,7 @@ I'm <a href="https://201851019-iiitv.github.io/CV/">Ambesh Kumar</a>  😊😊, 
 - 😊 My Favorite to do CP(Competitive Programming).
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=201851019-iiitv&show_icons=true&theme=outrun&locale=en" alt="201851019-iiitv" /></p>
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/wakatime?username=201851019-iiitv" alt="201851019-iiitv" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ambesh1999" alt="201851019-iiitv" /></p>
 <br>
 &nbsp;
 <p style><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=201851019-iiitv&" alt="201851019-iiitv" /></p>
