@@ -23,7 +23,7 @@ I'm <a href="https://201851019-iiitv.github.io/CV/">Ambesh Kumar</a>  😊😊, 
 <br>
 &nbsp;
 <img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=201851019-iiitv&" alt="201851019-iiitv" />
-<img align="centre" width="300"   src="https://github-readme-stats.vercel.app/api/top-langs?username=201851019-iiitv&show_icons=true&locale=en&layout=compact" alt="201851019-iiitv" />
+<img align="centre" width="48%"   src="https://github-readme-stats.vercel.app/api/top-langs?username=201851019-iiitv&show_icons=true&locale=en&layout=compact" alt="201851019-iiitv" />
 <br>
 
 
