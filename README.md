@@ -18,6 +18,9 @@ I'm <a href="https://www.ambeshkumar.ml/">Ambesh Kumar</a>  😊😊, a Web and 
 - 😊 My Favorite to do CP(Competitive Programming).
 
 
+![Ambesh's github stats](https://github-readme-stats.vercel.app/api?username=201851019-iiitv&show_icons=true&theme=outrun)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=201851019-iiitv)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;
 <br>
@@ -49,8 +52,6 @@ I'm <a href="https://www.ambeshkumar.ml/">Ambesh Kumar</a>  😊😊, a Web and 
 <code><img height="30" src="https://www.seekpng.com/png/full/201-2015948_kali-linux.png"></code>
 
 
-
-![Ambesh's github stats](https://github-readme-stats.vercel.app/api?username=201851019-iiitv&show_icons=true&theme=dark&line_height=40)
 
 **Connect Me:**  <br />
    <a href="https://twitter.com/AmbeshK88476896">
