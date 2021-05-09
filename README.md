@@ -54,11 +54,14 @@ I'm <a href="https://201851019-iiitv.github.io/CV/">Ambesh Kumar</a>  😊😊, 
 
 
 **Connect Me:**  <br />
-   <a href="https://twitter.com/AmbeshK88476896">
-  <img align="left" alt="Ambesh Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+   <a href="https://201851019-iiitv.github.io/CV/">
+  <img align="left" alt="Ambesh Kumar | Home" width="22px" src="https://svgshare.com/i/X66.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ambesh-kumar-7592b31a5/">
   <img align="left" alt="Ambesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+   <a href="https://twitter.com/AmbeshK88476896">
+  <img align="left" alt="Ambesh Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/ambesh_234/?hl=en">
   <img align="left" alt="Ambesh's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
