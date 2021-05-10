@@ -1,4 +1,4 @@
-### Hi there 👋  
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://komarev.com/ghpvc/?username=201851019-iiitv&style=flat-square)
 
@@ -19,7 +19,7 @@ I'm <a href="https://201851019-iiitv.github.io/CV/">Ambesh Kumar</a>  😊😊, 
 
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=201851019-iiitv&show_icons=true&theme=outrun&locale=en" alt="201851019-iiitv" /> 
-<img align="centre"  width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ambesh1999" alt="201851019-iiitv" />
+<img align="centre"  width="48%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ambesh1999&hide_title=true&hide_border=true" alt="201851019-iiitv" />
 <br>
 <img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=201851019-iiitv&" alt="201851019-iiitv" />
 <img align="centre" width="48%" height="190"  src="https://github-readme-stats.vercel.app/api/top-langs?username=201851019-iiitv&show_icons=true&locale=en&layout=compact" alt="201851019-iiitv" />
