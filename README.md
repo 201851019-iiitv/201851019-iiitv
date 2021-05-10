@@ -10,7 +10,7 @@ I'm <a href="https://201851019-iiitv.github.io/CV/">Ambesh Kumar</a>  😊😊, 
 
 - 🌱 I’m currently learning  Android App development  .
 - 👯 I’m looking to collaborate on Web Developement and Android Development Project.
-- 🤔 I’m looking for help with good resources.
+- 🤔 I’m looking for good internship opportunity.
 - 💬 Ask me about Web Development, Competitive Programming and Technology in general. 
 - 📫 How to reach me: <a href="mailto:ambeshkumar27899@gmail.com">ambeshkumar27899@gmail.com  ✉️ </a> .
 - 😄 Pronouns: Ambesh ,Bro,Dude .
