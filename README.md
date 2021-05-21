@@ -55,7 +55,7 @@ I'm <a href="https://201851019-iiitv.github.io/CV/">Ambesh Kumar</a>  😊😊, 
 
 **Connect Me:**  <br />
    <a href="https://201851019-iiitv.github.io/CV/">
-  <img align="left" alt="Ambesh Kumar | Home" width="22px" src="https://svgshare.com/i/X66.svg" />
+  <img align="left" alt="Ambesh Kumar | Home" width="22px" src="https://i.ibb.co/S5s6SV2/home.png" />
 </a>
 <a href="https://www.linkedin.com/in/ambesh-kumar-7592b31a5/">
   <img align="left" alt="Ambesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
